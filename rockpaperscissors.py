@@ -1,8 +1,8 @@
 #play a simple rock paper scissors game with cpu by setting a score limit...Those who reches to the score limit first Wins the game...
 import random
 a=int(input("score limit: "))
-count1=0
-count2=0
+count1=1
+count2=1
 i=0
 output=["rock","paper","scissor"]
 while (count1<a and count2<a):
