@@ -64,3 +64,4 @@ if count1==count2:
 if count2==a:
 	print("sorry you lost the game..better luck next time")	
 
+hkkfdknsvfknvdfkj
