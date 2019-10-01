@@ -12,5 +12,5 @@ a=input("to :")
 b=input("description :")
 conn.sendmail(d,a,b)
 conn.quit()
-()
-print("email successfull sent")
+
+print("email sent succesfully")
