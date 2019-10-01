@@ -5,6 +5,7 @@ b=open(a,"r")
 c=b.read()
 d=c.split()
 print(d)
+print("operation successfull")
 #the key words got printed on your terminal
 #now install googler from CLI by commands 1)sudo add-apt-repository ppa:twodopeshaggy/jarun and 2)sudo apt-get update && sudo apt-get install googler
 #type googler on your terminal and press enter
