@@ -1,5 +1,5 @@
 #code to read and search the key words from given file in google from CLI
-a=input("file name: ")
+file=input("enter file name: ")
 #enter the name of file present in your directory
 b=open(a,"r")
 c=b.read()
