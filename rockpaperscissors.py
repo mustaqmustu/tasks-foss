@@ -17,7 +17,7 @@ while (count1<a and count2<a):
 		print()
 	if n=="rock" and cpu=="paper":
 		print("you lost a point")
-		count2+=1
+		count2+=3
 		print()
 		print()
 	if n=="rock" and cpu=="scissor":
