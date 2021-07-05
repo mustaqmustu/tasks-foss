@@ -63,4 +63,4 @@ if count1==count2:
 	print("the game is draw")
 if count2==a:
 	print("sorry you lost the game..better luck next time")	
-
+yo
